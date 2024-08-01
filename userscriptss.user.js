@@ -2,7 +2,7 @@
 // @name         G2A
 // @namespace    https://g2a.com/
 // @version      12.0.AutoUpdateFinal
-// @author       Telegram @Humoxde
+// @author       Free
 // @description  Get any product from G2A for FREE.
 // @match        http*://www.g2a.com/payment*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=g2a.com
